@@ -630,7 +630,11 @@
     core-js "^2.6.5"
     regenerator-runtime "^0.13.2"
 
+<<<<<<< HEAD
 "@babel/runtime@7.x", "@babel/runtime@^7.0.0":
+=======
+"@babel/runtime@^7.0.0":
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
   version "7.6.0"
   resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.6.0.tgz?cache=0&sync_timestamp=1567791513707&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fruntime%2Fdownload%2F%40babel%2Fruntime-7.6.0.tgz#4fc1d642a9fd0299754e8b5de62c631cf5568205"
   integrity sha1-T8HWQqn9Apl1Totd5ixjHPVWggU=
@@ -767,11 +771,14 @@
   resolved "https://registry.npm.taobao.org/@types/q/download/@types/q-1.5.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fq%2Fdownload%2F%40types%2Fq-1.5.2.tgz#690a1475b84f2a884fd07cd797c00f5f31356ea8"
   integrity sha1-aQoUdbhPKohP0HzXl8APXzE1bqg=
 
+<<<<<<< HEAD
 "@vant/icons@1.1.13":
   version "1.1.13"
   resolved "https://registry.npm.taobao.org/@vant/icons/download/@vant/icons-1.1.13.tgz?cache=0&sync_timestamp=1568026522728&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vant%2Ficons%2Fdownload%2F%40vant%2Ficons-1.1.13.tgz#ea77298f4f2b19ccc761005068a2c7436098e4d4"
   integrity sha1-6ncpj08rGczHYQBQaKLHQ2CY5NQ=
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/@vue/babel-helper-vue-jsx-merge-props/download/@vue/babel-helper-vue-jsx-merge-props-1.0.0.tgz#048fe579958da408fb7a8b2a3ec050b50a661040"
@@ -1437,6 +1444,7 @@ babel-plugin-module-resolver@3.2.0:
     reselect "^3.0.1"
     resolve "^1.4.0"
 
+<<<<<<< HEAD
 babel-runtime@^6.0.0:
   version "6.26.0"
   resolved "https://registry.npm.taobao.org/babel-runtime/download/babel-runtime-6.26.0.tgz#965c7058668e82b55d7bfe04ff2337bc8b5647fe"
@@ -1445,6 +1453,8 @@ babel-runtime@^6.0.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/balanced-match/download/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -1480,6 +1490,7 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
+<<<<<<< HEAD
 better-scroll@^1.15.2:
   version "1.15.2"
   resolved "https://registry.npm.taobao.org/better-scroll/download/better-scroll-1.15.2.tgz?cache=0&sync_timestamp=1566963141124&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbetter-scroll%2Fdownload%2Fbetter-scroll-1.15.2.tgz#65ffc6058b8b4ff337b8dfad4bcb334d7699ceb6"
@@ -1487,6 +1498,8 @@ better-scroll@^1.15.2:
   dependencies:
     babel-runtime "^6.0.0"
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 bfj@^6.1.1:
   version "6.1.2"
   resolved "https://registry.npm.taobao.org/bfj/download/bfj-6.1.2.tgz#325c861a822bcb358a41c78a33b8e6e2086dde7f"
@@ -2201,7 +2214,11 @@ copy-webpack-plugin@^4.6.0:
     p-limit "^1.0.0"
     serialize-javascript "^1.4.0"
 
+<<<<<<< HEAD
 core-js@^2.4.0, core-js@^2.6.5:
+=======
+core-js@^2.6.5:
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
   version "2.6.9"
   resolved "https://registry.npm.taobao.org/core-js/download/core-js-2.6.9.tgz#6b4b214620c834152e179323727fc19741b084f2"
   integrity sha1-a0shRiDINBUuF5Mjcn/Bl0GwhPI=
@@ -6079,11 +6096,14 @@ regenerate@^1.2.1, regenerate@^1.4.0:
   resolved "https://registry.npm.taobao.org/regenerate/download/regenerate-1.4.0.tgz#4a856ec4b56e4077c557589cae85e7a4c8869a11"
   integrity sha1-SoVuxLVuQHfFV1icroXnpMiGmhE=
 
+<<<<<<< HEAD
 regenerator-runtime@^0.11.0:
   version "0.11.1"
   resolved "https://registry.npm.taobao.org/regenerator-runtime/download/regenerator-runtime-0.11.1.tgz#be05ad7f9bf7d22e056f9726cee5017fbf19e2e9"
   integrity sha1-vgWtf5v30i4Fb5cmzuUBf78Z4uk=
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 regenerator-runtime@^0.13.2:
   version "0.13.3"
   resolved "https://registry.npm.taobao.org/regenerator-runtime/download/regenerator-runtime-0.13.3.tgz#7cf6a77d8f5c6f60eb73c5fc1955b2ceb01e6bf5"
@@ -7351,6 +7371,7 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
+<<<<<<< HEAD
 vant@^2.2.0:
   version "2.2.0"
   resolved "https://registry.npm.taobao.org/vant/download/vant-2.2.0.tgz#d0203f76435da034ff1e9036373971554e61edbc"
@@ -7361,6 +7382,8 @@ vant@^2.2.0:
     "@vue/babel-helper-vue-jsx-merge-props" "^1.0.0"
     vue-lazyload "1.2.3"
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
@@ -7390,11 +7413,14 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.npm.taobao.org/vue-hot-reload-api/download/vue-hot-reload-api-2.3.3.tgz#2756f46cb3258054c5f4723de8ae7e87302a1ccf"
   integrity sha1-J1b0bLMlgFTF9HI96K5+hzAqHM8=
 
+<<<<<<< HEAD
 vue-lazyload@1.2.3:
   version "1.2.3"
   resolved "https://registry.npm.taobao.org/vue-lazyload/download/vue-lazyload-1.2.3.tgz?cache=0&sync_timestamp=1565348603567&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-lazyload%2Fdownload%2Fvue-lazyload-1.2.3.tgz#901f9ec15c7e6ca78781a2bae4a343686bdedb2c"
   integrity sha1-kB+ewVx+bKeHgaK65KNDaGve2yw=
 
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 vue-loader@^15.7.0:
   version "15.7.1"
   resolved "https://registry.npm.taobao.org/vue-loader/download/vue-loader-15.7.1.tgz#6ccacd4122aa80f69baaac08ff295a62e3aefcfd"

@@ -1,6 +1,7 @@
 module.exports = {
   presets: [
     '@vue/app'
+<<<<<<< HEAD
   ],
   /* plugins: [
     ['import', {
@@ -11,4 +12,7 @@ module.exports = {
   ], */
   
   
+=======
+  ]
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
 }

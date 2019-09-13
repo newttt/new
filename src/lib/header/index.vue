@@ -10,13 +10,27 @@
 <script>
     export default {
         name:"detailHead",
+<<<<<<< HEAD
         
+=======
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
         props:{
             title:{
                 type:String,
                 default:"演出详情"
+<<<<<<< HEAD
             }
         }
+=======
+            },
+        },
+    methods:{
+                  // 滚动到指定的位置
+            handleScrollTop(t){
+            this.scroll.scrollTo(0,-t,300)
+        }
+      }
+>>>>>>> 94f5f8097528659bf7448a7090a1bf50701ee56d
     }
 </script>
 
